@@ -1,0 +1,5 @@
+Lyssomanes_viridis = Green Jumper
+Dolomedes_triton = Fishing Spider
+Latrocdectus_mactans = Brown recluse
+Nephila_clavipes = Golden Orb-web spider
+Latrodectus_geometricus = Brown widow
